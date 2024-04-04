@@ -6,8 +6,8 @@ const noBtn = document.querySelector(".no-btn");
 const secondQuestion = document.querySelectorAll(".question")[1];
 
 yesBtn.addEventListener("click" , () => {
-  question.innerHTML = "I like you";
-  secondQuestion.innerHTML = "How about you?"; 
+  question.innerHTML = "aku suka sama kamu";
+  secondQuestion.innerHTML = "mau ga  jadi pacar aku? hehehe"; 
 });
 
 noBtn.addEventListener("mouseover", () => {
